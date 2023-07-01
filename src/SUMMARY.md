@@ -4,7 +4,6 @@
   - [Overview of the book](chapter-1-1.md)
   - [Background information on transportation logistics and the role of ChatGPT](chapter-1-2.md)
   - [Importance of using ChatGPT in transportation logistics planning](chapter-1-3.md)
-  - [Objectives of the book](chapter-1-4.md)
 - [Chapter 1: Understanding Transportation Logistics](chapter-2.md)
   - [What is Transportation Logistics?](chapter-2-1.md)
   - [The History and Evolution of Transportation Logistics](chapter-2-2.md)
