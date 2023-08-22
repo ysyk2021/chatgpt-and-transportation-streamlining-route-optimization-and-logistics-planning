@@ -1,5 +1,4 @@
-Limitations and Challenges of Transportation Logistics
-=========================================================================================================
+
 
 Transportation logistics involves the planning, management, and execution of the movement of goods from one location to another. It is a critical component of supply chain management and plays a vital role in ensuring the timely delivery of goods to customers. However, transportation logistics also faces several limitations and challenges that can affect its efficiency and effectiveness.
 

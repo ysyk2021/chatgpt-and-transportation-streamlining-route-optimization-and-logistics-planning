@@ -1,5 +1,4 @@
-Personalization Techniques Used in ChatGPT for Transportation Logistics
-==================================================================================================================================================
+
 
 One of the key advantages of ChatGPT in transportation logistics planning is its ability to provide personalized recommendations based on real-time data analysis. In this chapter, we will explore the personalization techniques used in ChatGPT for transportation logistics, including natural language processing (NLP) and machine learning algorithms.
 

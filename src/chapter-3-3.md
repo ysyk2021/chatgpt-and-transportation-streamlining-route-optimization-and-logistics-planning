@@ -1,4 +1,4 @@
-# Types of Chatbots Used in Transportation Logistics
+
 
 In this chapter, we will delve into the various types of chatbots that are used in transportation logistics to streamline route optimization and logistics planning processes. These intelligent chatbot systems have revolutionized the way transportation companies manage their operations, providing real-time assistance, and improving efficiency. Let's explore some of the key types of chatbots used in this industry.
 

@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Transportation Logistics
-======================================================
+
 
 An Overview of Chatbots and AI in Transportation Logistics
 ----------------------------------------------------------

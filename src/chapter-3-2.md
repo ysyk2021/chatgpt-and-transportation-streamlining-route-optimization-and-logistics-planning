@@ -1,5 +1,4 @@
-Advantages of Using Chatbots and AI in Transportation Logistics
-=======================================================================================================================
+
 
 Chatbots and AI are becoming increasingly prevalent in the transportation industry, offering a range of benefits for logistics planning and operations. In this chapter, we will explore some of the key advantages of using chatbots and AI in transportation logistics.
 

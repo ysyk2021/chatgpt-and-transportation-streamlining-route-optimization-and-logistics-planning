@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Transportation Logistics
-================================================================================================================================================
+
 
 ChatGPT is an AI-powered tool that uses natural language processing (NLP) to simulate human conversation, providing personalized and effective solutions for businesses in transportation logistics. In this chapter, we will evaluate ChatGPT's performance and effectiveness in transportation logistics.
 

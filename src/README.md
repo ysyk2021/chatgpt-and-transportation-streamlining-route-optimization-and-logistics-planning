@@ -1,4 +1,4 @@
-# Introduction
+
 
 The transportation industry is a critical component of the global economy, responsible for the movement of goods across vast distances to meet the needs of consumers and businesses. However, the planning and execution of logistics operations can be complex and time-consuming, requiring significant resources and expertise.
 

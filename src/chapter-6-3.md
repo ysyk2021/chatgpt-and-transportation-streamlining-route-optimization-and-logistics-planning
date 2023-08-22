@@ -1,5 +1,4 @@
-Training ChatGPT and Managing Conversations
-=============================================================================================================
+
 
 In this chapter, we will discuss the steps involved in training ChatGPT for transportation logistics and managing conversations with customers.
 

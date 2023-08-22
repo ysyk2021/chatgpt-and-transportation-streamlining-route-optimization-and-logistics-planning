@@ -1,5 +1,4 @@
-Types of Transportation Logistics Techniques Used Today
-==========================================================================================================
+
 
 Transportation logistics involves the planning, management, and execution of the movement of goods from one location to another. There are several types of transportation logistics techniques used today that businesses can leverage to optimize their operations.
 

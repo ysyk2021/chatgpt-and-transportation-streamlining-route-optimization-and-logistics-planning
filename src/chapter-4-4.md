@@ -1,5 +1,4 @@
-Case Studies on ChatGPT in Transportation Logistics
-=======================================================================================
+
 
 ChatGPT, an AI-powered chatbot developed by OpenAI, has significant potential applications in transportation logistics planning. In this chapter, we will explore case studies on the use of ChatGPT in transportation logistics, highlighting its ability to provide personalized support and recommendations based on real-time data analysis.
 

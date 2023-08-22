@@ -1,5 +1,4 @@
-Chapter 6: Future Trends and Directions in Chatbots and AI in Transportation Logistics
-======================================================================================
+
 
 Emerging Trends in Chatbots and AI in Transportation Logistics
 --------------------------------------------------------------
