@@ -1,5 +1,4 @@
 
-
 Transportation logistics is the management of the movement of goods and materials from one location to another. It involves the planning, coordination, and execution of various activities such as route optimization, inventory management, delivery scheduling, and the use of different modes of transportation like trucks, ships, trains, and airplanes.
 
 Effective transportation logistics requires a deep understanding of complex supply chain networks, real-time data analysis, and the coordination of multiple stakeholders involved in the transportation process, including manufacturers, distributors, retailers, and customers.

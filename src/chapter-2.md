@@ -1,5 +1,4 @@
 
-
 Transportation logistics is a critical component of modern business, responsible for the movement of goods and materials across the globe. In this chapter, we will explore what transportation logistics is, its history and evolution, types of techniques used today, and its limitations and challenges.
 
 What is Transportation Logistics?

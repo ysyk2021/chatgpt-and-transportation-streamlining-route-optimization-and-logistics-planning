@@ -1,5 +1,4 @@
 
-
 Transportation logistics is a critical component of modern business, responsible for the movement of goods and materials across the globe. As the industry becomes increasingly complex and demanding, businesses are looking for new ways to streamline operations, reduce costs, and improve customer satisfaction.
 
 One such solution is the use of ChatGPT, an AI-powered chatbot developed by OpenAI. ChatGPT has significant potential applications in transportation logistics planning, providing personalized support and recommendations to customers and employees at any time of day or night.

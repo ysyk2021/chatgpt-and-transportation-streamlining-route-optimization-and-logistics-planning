@@ -1,5 +1,4 @@
 
-
 ChatGPT is an AI-powered chatbot that has significant potential applications in transportation logistics planning, particularly in the areas of route optimization and delivery scheduling. In this chapter, we will explore how ChatGPT works in route optimization and logistics planning.
 
 Data Analysis

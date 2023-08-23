@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the implementation of ChatGPT in transportation logistics and how it can be integrated with existing transportation logistics systems. We will explore the benefits of using ChatGPT in transportation logistics, as well as the challenges that may arise during implementation.
 
 Benefits of Using ChatGPT in Transportation Logistics
