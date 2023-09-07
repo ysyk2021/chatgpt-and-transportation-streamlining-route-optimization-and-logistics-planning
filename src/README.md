@@ -10,3 +10,7 @@ By providing insights and guidance on how to effectively implement ChatGPT in tr
 Overall, this book serves as a valuable resource for anyone interested in the intersection of AI and transportation logistics, and how these technologies can be used to drive business success and growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
