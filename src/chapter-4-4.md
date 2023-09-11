@@ -1,5 +1,4 @@
-Chapter 6: Case Studies on ChatGPT in Transportation Logistics
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that demonstrate the practical applications of ChatGPT in the field of transportation logistics. ChatGPT, with its natural language processing capabilities, has proven to be a valuable tool for optimizing routes, improving communication, and enhancing decision-making in logistics.
 

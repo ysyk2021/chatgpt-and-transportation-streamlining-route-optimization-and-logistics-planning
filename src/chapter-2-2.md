@@ -1,5 +1,4 @@
-Chapter 2: The History and Evolution of Transportation Logistics
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transportation logistics, as we know it today, has a rich history that spans centuries. In this chapter, we will explore the evolution of transportation logistics, from its early beginnings to the modern, AI-driven era of route optimization and logistics planning.
 

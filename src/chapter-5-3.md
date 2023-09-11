@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Uses Data to Improve Route Optimization and Logistics Planning
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT leverages data to enhance route optimization and logistics planning in the transportation industry. By analyzing vast datasets and making intelligent decisions based on that information, ChatGPT plays a crucial role in streamlining transportation operations.
 

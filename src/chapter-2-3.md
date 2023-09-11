@@ -1,5 +1,4 @@
-Chapter 2: Types of Transportation Logistics Techniques Used Today
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various techniques and strategies employed in contemporary transportation logistics. These techniques play a pivotal role in enhancing efficiency, reducing costs, and improving overall supply chain management within the context of the book "ChatGPT and Transportation Streamlining Route Optimization and Logistics Planning."
 

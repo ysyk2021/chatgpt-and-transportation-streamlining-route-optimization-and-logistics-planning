@@ -1,5 +1,4 @@
-Chapter 6: Challenges and Limitations of Using Chatbots in Transportation Logistics
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various challenges and limitations associated with the utilization of chatbots in transportation logistics. While chatbots like ChatGPT offer significant benefits, it's essential to understand and address the potential obstacles that can arise in their implementation.
 

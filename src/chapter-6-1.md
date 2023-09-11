@@ -1,5 +1,4 @@
-Chapter 3: Planning and Designing ChatGPT for Transportation Logistics
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspects of planning and designing ChatGPT specifically tailored for transportation streamlining, route optimization, and logistics planning. Building an effective AI system in this domain requires careful consideration of various factors to ensure it meets the unique requirements of the transportation and logistics industry.
 

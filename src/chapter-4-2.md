@@ -1,5 +1,4 @@
-Chapter 6: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key features and capabilities of ChatGPT, highlighting how this advanced AI model can revolutionize transportation streamlining, route optimization, and logistics planning.
 

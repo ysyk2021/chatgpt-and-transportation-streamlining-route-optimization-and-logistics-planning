@@ -1,5 +1,4 @@
-Chapter 2: Training ChatGPT and Managing Conversations
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the intricate process of training ChatGPT for transportation streamlining, route optimization, and logistics planning. We will also explore the techniques and best practices for managing conversations with ChatGPT to ensure effective communication and problem-solving in the context of transportation and logistics.
 

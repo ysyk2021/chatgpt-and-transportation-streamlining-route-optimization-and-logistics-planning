@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts and characteristics of ChatGPT, a powerful language model developed by OpenAI. ChatGPT has made significant strides in various fields, including transportation, streamlining route optimization, and logistics planning.
 

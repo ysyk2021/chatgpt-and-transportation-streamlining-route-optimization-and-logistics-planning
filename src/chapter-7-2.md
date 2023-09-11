@@ -1,5 +1,4 @@
-Chapter 8: The Future of Chatbots and AI in Transportation Logistics
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will peer into the future of chatbots and Artificial Intelligence (AI) in the realm of transportation logistics. The rapid advancements in AI technologies are poised to reshape the way logistics operations are streamlined, routes are optimized, and planning is executed.
 

@@ -1,5 +1,4 @@
-Chapter 5: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Route Optimization and Logistics Planning
-====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine several real-world case studies that highlight the effectiveness of ChatGPT in enhancing route optimization and logistics planning in various transportation scenarios. These case studies showcase how ChatGPT's AI capabilities have been applied to address unique challenges and deliver tangible benefits.
 

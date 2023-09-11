@@ -1,5 +1,4 @@
-Chapter 7: Opportunities and Challenges in Chatbots and AI in Transportation Logistics
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the wide array of opportunities and the concurrent challenges that accompany the integration of chatbots and Artificial Intelligence (AI) in the field of transportation logistics. These technologies hold great promise for streamlining operations, yet they also present complexities and hurdles that must be addressed for their successful implementation.
 

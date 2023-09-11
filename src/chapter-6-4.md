@@ -1,5 +1,4 @@
-Chapter 7: Evaluating ChatGPT's Performance and Effectiveness in Transportation Logistics
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the methods and metrics used to assess ChatGPT's performance and effectiveness when applied to transportation logistics. It is essential to evaluate how well the AI model meets the specific needs and challenges of this industry.
 

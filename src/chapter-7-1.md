@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends in Chatbots and AI in Transportation Logistics
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the cutting-edge developments and emerging trends in the use of chatbots and AI (Artificial Intelligence) within the realm of transportation logistics. As technology continues to evolve, these trends are shaping the future of how logistics operations are streamlined, routes are optimized, and planning is enhanced.
 

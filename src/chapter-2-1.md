@@ -1,5 +1,4 @@
-Chapter 1: What is Transportation Logistics?
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transportation logistics is the cornerstone of modern commerce and trade, serving as the backbone of the global supply chain. In this chapter, we will delve into the fundamental concepts and principles that define transportation logistics, its significance, and its role in streamlining routes, optimizing operations, and planning logistics in the context of the book "ChatGPT and Transportation Streamlining Route Optimization and Logistics Planning."
 
